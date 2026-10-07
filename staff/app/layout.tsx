@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Terminal 2 | Table Ordering',
-  description: 'Order freshly made food and drinks from your table at Terminal 2, Coimbatore.',
+  title: 'Terminal 2 | Staff Operations & Management',
+  description: 'Operations management portal for Kitchen, Cashier, and Administration at Terminal 2, Coimbatore.',
   generator: 'v0.app',
   icons: {
     icon: [
